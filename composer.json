@@ -1,0 +1,16 @@
+{
+    "name": "Luigi/LCorp",
+    "autoload": {
+        "psr-4": {
+            "Luigi\\LCorp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LCorp"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
